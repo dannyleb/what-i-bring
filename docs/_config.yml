@@ -1,1 +1,23 @@
 
+# GitHub Pages Configuration
+
+# Theme (not used since we have custom HTML/CSS)
+theme: null
+
+# Enable GitHub Pages
+enabled: true
+
+# Source directory
+source: docs
+
+# Keep files
+keep_files:
+  - index.html
+  - styles.css
+  - script.js
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
